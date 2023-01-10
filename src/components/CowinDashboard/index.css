@@ -1,0 +1,55 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+
+.bg-container {
+  background-color: #161625;
+  padding: 35px;
+}
+
+.website-image {
+  height: 60px;
+  width: 60px;
+}
+
+.cowin-para {
+  margin-left: 25px;
+  color: #2cc6c6;
+  font-size: 30px;
+}
+
+.website-logo-para {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+}
+
+.card-coverage-heading {
+  color: #ffffff;
+  margin-bottom: 25px;
+}
+
+.card-vaccination-coverage-container {
+  background-color: #1c1c2b;
+  padding: 35px;
+  border-radius: 10px;
+}
+
+.card-gender-container {
+  background-color: #1c1c2b;
+  padding: 35px;
+  border-radius: 10px;
+  margin-top: 25px;
+}
+
+.card-age-container {
+  background-color: #1c1c2b;
+  padding: 35px;
+  border-radius: 10px;
+  margin-top: 25px;
+}
